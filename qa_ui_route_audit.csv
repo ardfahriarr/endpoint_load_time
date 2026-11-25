@@ -1,0 +1,47 @@
+URL,Status QA,HTTP Code,Load Time (ms),Error Details
+https://news.uad.ac.id/imm-uad-selenggarakan-seminar-politik-nasional/,FAIL,TIMEOUT,20009.89,Page load hang > 20000ms
+http://eprints.uad.ac.id/,FAIL,TIMEOUT,20006.45,Page load hang > 20000ms
+http://pmb.uad.ac.id,FAIL,TIMEOUT,20002.56,Page load hang > 20000ms
+http://pmb.uad.ac.id/,FAIL,TIMEOUT,20002.35,Page load hang > 20000ms
+http://bimawa.uad.ac.id/,PASS,200,16596.49,-
+https://uad.ac.id/en/research-and-community-service/,PASS,200,10595.43,-
+https://oia.uad.ac.id/,PASS,200,9284.04,-
+http://persada.uad.ac.id/,PASS,200,7064.47,-
+http://perpustakaan.uad.ac.id/,PASS,200,5977.42,-
+https://www.facebook.com/UADYogyakarta/,PASS,200,5961.39,-
+http://cdc.uad.ac.id/,PASS,200,5470.39,-
+http://islamiccenter.uad.ac.id/,PASS,200,4636.81,-
+https://news.uad.ac.id/publikasi-media/,PASS,200,4099.32,-
+https://uad.ac.id/en/ahmad-dahlan-university/,PASS,200,3333.43,-
+http://elearning.uad.ac.id/,PASS,200,3106.95,-
+https://news.uad.ac.id/penyelia-bppp-kemendikdasmen-apresiasi-penyelenggaraan-utbk-ukppg-uad/,PASS,200,2690.77,-
+https://news.uad.ac.id/prodi-pbi-uad-tuntaskan-program-pelatihan-254-guru-sd-di-kulon-progo/,PASS,200,2605.01,-
+http://bimawa.uad.ac.id/beasiswa/,PASS,200,2427.08,-
+https://uad.ac.id/study-at-uad/programs/postgraduate/,PASS,200,2416.55,-
+https://uad.ac.id/study-at-uad/programs/profession-program/,PASS,200,2304.2,-
+https://news.uad.ac.id/,PASS,200,2289.93,-
+https://news.uad.ac.id/kabar-uad/,PASS,200,2282.35,-
+https://news.uad.ac.id/imm-fai-uad-gelar-semarak-musykom-2026/,PASS,200,1842.71,-
+https://uad.ac.id/en/students/,PASS,200,1809.23,-
+https://uad.ac.id/en/study-at-uad/,PASS,200,1772.49,-
+https://uad.ac.id/about-uad/,PASS,200,1717.25,-
+https://uad.ac.id/study-at-uad/programs/vocation-program/,PASS,200,1622.35,-
+https://uad.ac.id/en/study-at-uad/programs/doctoral-program/,PASS,200,1575.32,-
+https://uad.ac.id/study-at-uad/programs/undergraduate-program/,PASS,200,1503.91,-
+https://uad.ac.id/en/about-uad/,PASS,200,1367.68,-
+http://portal.uad.ac.id/,PASS,200,1156.88,-
+https://uad.ac.id/en/ahmad-dahlan-university/?s=,PASS,200,1156.47,-
+https://uad.ac.id/en/alumni-uad/,PASS,200,1119.41,-
+https://uad.ac.id/en/uad-students/,PASS,200,1104.54,-
+https://uad.ac.id/en/prospective-students/,PASS,200,907.98,-
+https://uad.ac.id/en/lecturer-and-staff/,PASS,200,895.14,-
+http://journal.uad.ac.id/,FAIL,403,631.85,HTTP Status 403
+http://simeru.uad.ac.id/,PASS,200,288.5,-
+https://twitter.com/Klik_UAD,FAIL,ERROR,265.11,Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://twitter.com/Klik_UAD
+http://pmb-online.uad.ac.id,PASS,200,238.26,-
+https://www.youtube.com/@klik_uad1960,FAIL,ERROR,73.74,Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.youtube.com/@klik_uad1960
+https://www.tiktok.com/@klik_uad,FAIL,ERROR,56.59,Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tiktok.com/@klik_uad
+https://www.instagram.com/klik_uad/,FAIL,ERROR,54.34,Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.instagram.com/klik_uad/
+http://conference.uad.ac.id/,FAIL,DNS_ERROR,49.64,Domain tidak ditemukan
+http://digilib.uad.ac.id/,FAIL,DNS_ERROR,46.25,Domain tidak ditemukan
+https://uad.ac.id/files/Booklet-PMB-UAD-2022.pdf,FAIL,ERROR,33.6,Page.goto: Download is starting
